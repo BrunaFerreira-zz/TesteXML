@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<alunos>
+    <aluno tia="123456">
+        <nome>Bruna</nome>
+        <faculdade>FCI</faculdade>
+        <curso>Ciencia Computacao</curso>
+        <etapa>4</etapa>
+        <endereco>
+            <rua numero="123">Rua Antonio Santos</rua>
+            <complemento>Casa </complemento>
+            <bairro>Sao Miguel</bairro>
+            <cidade estado="SP">Guarulhos</cidade>
+        </endereco>
+    </aluno>
+    <aluno tia="345678">
+        <nome>Alfred</nome>
+        <faculdade>FCI</faculdade>
+        <curso>Ciência da Computação</curso>
+        <etapa>7</etapa>
+        <endereco>
+            <rua numero="56">Rua Jose Silva</rua>
+            <complemento>Apartamento</complemento>
+            <bairro>Jabaquara</bairro>
+            <cidade estado="MG">Montes Claros</cidade>
+        </endereco>
+    </aluno>  
+</alunos>
